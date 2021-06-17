@@ -1,0 +1,343 @@
+{
+  "categories": [
+    {
+      "id": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "name": "Games",
+      "createAt": 1623915444161,
+      "updateAt": 1623915444161
+    },
+    {
+      "id": "6b39a2de-7470-4f51-8023-b4be113e6f46",
+      "name": "Home",
+      "createAt": 1623915444163,
+      "updateAt": 1623915444163
+    },
+    {
+      "id": "838ce036-6f07-4de1-bbbe-6c26b4e30184",
+      "name": "Garden",
+      "createAt": 1623915444169,
+      "updateAt": 1623915444169
+    },
+    {
+      "id": "c28f0b0a-8473-41e7-9ffd-d2ffd5eafb89",
+      "name": "Grocery",
+      "createAt": 1623915444178,
+      "updateAt": 1623915444178
+    }
+  ],
+  "products": [
+    {
+      "id": "4e0b2b8b-79c8-4088-92be-e8f662b5b67f",
+      "name": "Gorgeous Frozen Cheese",
+      "color": "gold",
+      "price": 117,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createAt": 1623915444183,
+      "updateAt": 1623915444183,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c"
+    },
+    {
+      "id": "7ac26fe8-f2b4-4fc2-9d8e-0331042cd7bf",
+      "name": "Generic Steel Ball",
+      "color": "mint green",
+      "price": 82,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createAt": 1623915444188,
+      "updateAt": 1623915444188,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c"
+    },
+    {
+      "id": "74cd7e76-a8ed-4ca3-99d2-87ea55ceb109",
+      "name": "Handcrafted Concrete Chicken",
+      "color": "lime",
+      "price": 189,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createAt": 1623915444190,
+      "updateAt": 1623915444190,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c"
+    },
+    {
+      "id": "daf7c766-0a10-4f81-9fd5-97f1e4ed77ad",
+      "name": "Rustic Cotton Chips",
+      "color": "teal",
+      "price": 782,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createAt": 1623915444192,
+      "updateAt": 1623915444192,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c"
+    },
+    {
+      "id": "7d4c5168-60d9-4bc1-8c8c-19e8b0030e0e",
+      "name": "Ergonomic Plastic Bike",
+      "color": "olive",
+      "price": 440,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createAt": 1623915444194,
+      "updateAt": 1623915444194,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c"
+    },
+    {
+      "id": "48a35747-3d1a-4dd9-9525-f315ad039dd4",
+      "name": "Licensed Steel Gloves",
+      "color": "cyan",
+      "price": 393,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createAt": 1623915444197,
+      "updateAt": 1623915444197,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "6b39a2de-7470-4f51-8023-b4be113e6f46"
+    },
+    {
+      "id": "96492b4f-6fc7-453b-95c7-e926f352699e",
+      "name": "Practical Frozen Salad",
+      "color": "fuchsia",
+      "price": 334,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createAt": 1623915444199,
+      "updateAt": 1623915444199,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "6b39a2de-7470-4f51-8023-b4be113e6f46"
+    },
+    {
+      "id": "3af9a902-3ed8-401e-a2ef-e7da022220f3",
+      "name": "Handmade Concrete Chair",
+      "color": "grey",
+      "price": 250,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createAt": 1623915444203,
+      "updateAt": 1623915444203,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "6b39a2de-7470-4f51-8023-b4be113e6f46"
+    },
+    {
+      "id": "937e947d-22cd-4361-ba35-ee94d5040e77",
+      "name": "Intelligent Wooden Mouse",
+      "color": "yellow",
+      "price": 959,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createAt": 1623915444206,
+      "updateAt": 1623915444206,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "6b39a2de-7470-4f51-8023-b4be113e6f46"
+    },
+    {
+      "id": "3ddc3405-8b3b-4e8c-a2a6-9a55bc4d9262",
+      "name": "Ergonomic Soft Bacon",
+      "color": "blue",
+      "price": 755,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createAt": 1623915444208,
+      "updateAt": 1623915444208,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "6b39a2de-7470-4f51-8023-b4be113e6f46"
+    },
+    {
+      "id": "13d2fecc-bb28-4c82-ae7b-df564791b1d9",
+      "name": "Licensed Fresh Soap",
+      "color": "orchid",
+      "price": 90,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createAt": 1623915444209,
+      "updateAt": 1623915444209,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "838ce036-6f07-4de1-bbbe-6c26b4e30184"
+    },
+    {
+      "id": "f24d06b3-c786-4e9e-bdf9-78bb253fafc3",
+      "name": "Handmade Frozen Table",
+      "color": "tan",
+      "price": 46,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createAt": 1623915444213,
+      "updateAt": 1623915444213,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "838ce036-6f07-4de1-bbbe-6c26b4e30184"
+    },
+    {
+      "id": "f8d7248e-6163-4030-aeaa-9e79530704af",
+      "name": "Intelligent Steel Hat",
+      "color": "salmon",
+      "price": 386,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createAt": 1623915444215,
+      "updateAt": 1623915444215,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "838ce036-6f07-4de1-bbbe-6c26b4e30184"
+    },
+    {
+      "id": "a4f0a073-eafa-4603-801b-99e35b1e17ba",
+      "name": "Unbranded Fresh Towels",
+      "color": "olive",
+      "price": 619,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createAt": 1623915444218,
+      "updateAt": 1623915444218,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "838ce036-6f07-4de1-bbbe-6c26b4e30184"
+    },
+    {
+      "id": "6f2823d2-1c58-4755-9e45-12a71b277729",
+      "name": "Handcrafted Concrete Keyboard",
+      "color": "gold",
+      "price": 743,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createAt": 1623915444220,
+      "updateAt": 1623915444220,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "838ce036-6f07-4de1-bbbe-6c26b4e30184"
+    },
+    {
+      "id": "7f9e5e4f-db31-4633-b05a-33bf1aee3f5d",
+      "name": "Intelligent Frozen Tuna",
+      "color": "violet",
+      "price": 608,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createAt": 1623915444222,
+      "updateAt": 1623915444222,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "c28f0b0a-8473-41e7-9ffd-d2ffd5eafb89"
+    },
+    {
+      "id": "79750299-f48e-4e86-a2af-7fe134f98a8e",
+      "name": "Gorgeous Wooden Pizza",
+      "color": "sky blue",
+      "price": 270,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createAt": 1623915444226,
+      "updateAt": 1623915444226,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "c28f0b0a-8473-41e7-9ffd-d2ffd5eafb89"
+    },
+    {
+      "id": "0f39e271-f309-4b44-b686-72b60d2a323b",
+      "name": "Fantastic Wooden Salad",
+      "color": "green",
+      "price": 141,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createAt": 1623915444228,
+      "updateAt": 1623915444228,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "c28f0b0a-8473-41e7-9ffd-d2ffd5eafb89"
+    },
+    {
+      "id": "6042e311-ca4c-4b93-95ca-c368b114319c",
+      "name": "Gorgeous Metal Pants",
+      "color": "lavender",
+      "price": 453,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createAt": 1623915444232,
+      "updateAt": 1623915444232,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "c28f0b0a-8473-41e7-9ffd-d2ffd5eafb89"
+    },
+    {
+      "id": "aed2e03a-7265-45a2-811b-6cbfca513dfc",
+      "name": "Gorgeous Wooden Sausages",
+      "color": "red",
+      "price": 822,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createAt": 1623915444234,
+      "updateAt": 1623915444234,
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "c28f0b0a-8473-41e7-9ffd-d2ffd5eafb89"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "19hdx8A"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "s-KGkIc"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "R0btXiF"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese Nga",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "z7e-1MY"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese Nga",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "2PAMIwZ"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese Nga",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "h3cri-E"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese Nga",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "Je7qIgg"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese Nga",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "vzjH4Qr"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese Nga",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "HM2qJrc"
+    },
+    {
+      "name": "Gorgeous Frozen Cheese Nga",
+      "color": "black",
+      "price": 132,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "thumbnaiUrl": "http://placeimg.com/400/400",
+      "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c",
+      "id": "hlQuld9"
+    }
+  ],
+  "profile": {
+    "name": "Nga"
+  }
+}

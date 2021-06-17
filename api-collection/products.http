@@ -1,0 +1,58 @@
+@baseUrl = http://localhost:3000
+
+@resourceName = products
+# Products
+# @name getAllProducts
+GET {{baseUrl}}/products
+
+###
+
+# @name filterProducts
+
+GET {{baseUrl}}/{{resourceName}}?price_gte=200
+
+
+###
+
+# @name pagination
+
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=5
+###
+
+# @name sort
+GET {{baseUrl}}/{{resourceName}}?_sort=price&_order=desc
+
+###
+
+# @name like
+GET {{baseUrl}}/{{resourceName}}?name_like=ta
+
+###
+
+# @name addNewProduct
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+  {
+    "name": "Gorgeous Frozen Cheese Nga",
+    "color": "black",
+    "price": 132,
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "thumbnaiUrl": "http://placeimg.com/400/400",
+    "categoryId": "3ef4c6b0-5b50-490a-87ba-e0ad2040bf4c"
+  }
+
+###
+
+# @name UpdateProduct
+PUT {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+  "name": "Phone New"
+}
+
+###
+
+# @name deleteProduct
+DELETE {{baseUrl}}/{{resourceName}}/4
